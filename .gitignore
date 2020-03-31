@@ -36,3 +36,4 @@ openshift-cloud-functions
 **/.factorypath
 install/*
 bin/kubectl
+pipelines
