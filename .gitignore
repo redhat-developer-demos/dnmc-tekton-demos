@@ -37,3 +37,4 @@ openshift-cloud-functions
 install/*
 bin/kubectl
 pipelines
+**/k8s/*.yaml
