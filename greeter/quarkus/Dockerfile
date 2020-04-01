@@ -1,4 +1,4 @@
-FROM quay.io/rhdevelopers/uib8-java-8
+FROM quay.io/rhdevelopers/ubi8-java-8
 
 COPY target/greeter.jar /deployments/greeter.jar
 
